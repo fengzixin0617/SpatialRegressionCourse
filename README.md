@@ -1,0 +1,1 @@
+# SpatialRegressionCourse
